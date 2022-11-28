@@ -10,7 +10,7 @@ pipeline
             {
                 script
                 {
-                    cicd.newGit('https://github.com/yallamanda/multibranch.git' )
+                    cicd.newGit('https://github.com/yallamanda/28-Multi.git' )
 
 
                 }
